@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrapper{
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    perspective: 10px;
+
+}
+.container{
+    position: relative;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform-style: preserve-3d;
+    z-index: -1;
+}
+.mountain{
+    transform: translateZ(-40px) scale(5);
+    
+}
+.man{
+    transform: translateZ(-20px) scale(3);
+}
+.adventure{
+    position: absolute;
+    color: white;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    text-shadow: 0 0 10px rgb(0, 0, 0, 0.3);
+    font-size: 10rem;
+    top: 4rem;
+    left: 50%;
+    letter-spacing: 2px;
+    transform: translateX(-50%);
+    
+}
+.mountain, .man{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    object-fit: cover;
+}
+
+section{
+    background-color: rgb(45, 45, 45);
+    color: white;
+    padding: 5rem 0;
+}
+
+.bg1{
+    background-image: url(riding.jpeg);
+}
+
+.bg2{
+    background-image: url(paragliding.jpeg);
+}
+
+.bg3{
+    background-image: url(surfing.jpeg);
+}
+
+.secHeading{
+    font-size: 4rem;
+    padding: 0 9rem;
+}
+
+.text{
+    font-size: 1.2rem;
+    padding: 0 9rem;
+    margin: 4rem 0;
+}
+
+.bg{
+    position: relative;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.desc{
+    position: absolute;
+    background-color: white;
+    padding: 0.5rem 2.5rem;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: black;
+    font-size: 3rem;
+}
