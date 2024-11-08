@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PARALLAX</title>
+    <link rel="stylesheet" href="parallax.css">
+</head>
+<body>
+    <div id="wrapper">
+        <div class="container">
+            <img src="mountain.jpeg" alt="Mountain" class="mountain">
+            <img src="man.png" alt="Man" class="man" >
+            <h1 class="adventure">ADVENTURE</h1>
+        </div>
+
+        <section>
+            <h2 class="secHeading">Adventure Time!</h2>
+            <p class="text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit omnis delectus provident dicta deleniti necessitatibus repellat dolor voluptatum repellendus quam eum, deserunt aliquid placeat numquam similique fugit mollitia eos sit consectetur velit fuga illo? Ducimus asperiores saepe ullam debitis vel perspiciatis corporis iste at, quo beatae doloribus incidunt sed velit distinctio? Quisquam officiis culpa eius, fuga odio animi magni ut quasi adipisci delectus dolorem laborum necessitatibus cum maiores nam placeat quo voluptatum. Officiis, quasi optio.
+                
+                <br>
+                <br>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni voluptatem minima vitae a recusandae fuga amet accusamus nesciunt sint placeat enim excepturi, quas, corrupti laudantium impedit molestias libero provident beatae voluptatibus. Nesciunt, quo blanditiis sit deleniti accusantium deserunt aliquam eos nisi totam fugit repellendus praesentium? Numquam, error. Earum, voluptate possimus tempore velit asperiores nostrum, non fugit maxime nulla adipisci est.
+                
+            </p>
+
+            <div class="bg bg1">
+                <h2 class="desc">BIKING</h2>
+            </div>
+            <p class="text">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod obcaecati nulla minima debitis asperiores consectetur error autem doloribus necessitatibus fugit exercitationem est, aspernatur sunt aut non eaque nostrum numquam repellat modi rerum! Ut, eos beatae suscipit illum velit minima nostrum fuga sapiente voluptatum quasi nihil temporibus corrupti libero, rem quam officia dolores quas quaerat tempore incidunt omnis. Sit, facilis quo!
+                <br>
+                <br>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni voluptatem minima vitae a recusandae fuga amet accusamus nesciunt sint placeat enim excepturi, quas, corrupti laudantium impedit molestias libero provident beatae voluptatibus. Nesciunt, quo blanditiis sit deleniti accusantium deserunt aliquam eos nisi totam fugit repellendus praesentium? Numquam, error. Earum, voluptate possimus tempore velit asperiores nostrum, non fugit maxime nulla adipisci est.
+                
+            </p>
+
+            <div class="bg bg2">
+                <h2 class="desc">PARA GLIDING</h2>
+            </div>
+            <p class="text">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod obcaecati nulla minima debitis asperiores consectetur error autem doloribus necessitatibus fugit exercitationem est, aspernatur sunt aut non eaque nostrum numquam repellat modi rerum! Ut, eos beatae suscipit illum velit minima nostrum fuga sapiente voluptatum quasi nihil temporibus corrupti libero, rem quam officia dolores quas quaerat tempore incidunt omnis. Sit, facilis quo!
+                <br>
+                <br>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni voluptatem minima vitae a recusandae fuga amet accusamus nesciunt sint placeat enim excepturi, quas, corrupti laudantium impedit molestias libero provident beatae voluptatibus. Nesciunt, quo blanditiis sit deleniti accusantium deserunt aliquam eos nisi totam fugit repellendus praesentium? Numquam, error. Earum, voluptate possimus tempore velit asperiores nostrum, non fugit maxime nulla adipisci est.
+                
+            </p>
+
+            <div class="bg bg3">
+                <h2 class="desc">SURFING</h2>
+            </div>
+            <p class="text">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod obcaecati nulla minima debitis asperiores consectetur error autem doloribus necessitatibus fugit exercitationem est, aspernatur sunt aut non eaque nostrum numquam repellat modi rerum! Ut, eos beatae suscipit illum velit minima nostrum fuga sapiente voluptatum quasi nihil temporibus corrupti libero, rem quam officia dolores quas quaerat tempore incidunt omnis. Sit, facilis quo!
+                <br>
+                <br>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni voluptatem minima vitae a recusandae fuga amet accusamus nesciunt sint placeat enim excepturi, quas, corrupti laudantium impedit molestias libero provident beatae voluptatibus. Nesciunt, quo blanditiis sit deleniti accusantium deserunt aliquam eos nisi totam fugit repellendus praesentium? Numquam, error. Earum, voluptate possimus tempore velit asperiores nostrum, non fugit maxime nulla adipisci est.
+                
+            </p>
+        </section>
+    </div>
+
+    
+</body>
+</html>
